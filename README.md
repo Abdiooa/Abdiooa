@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISdYhMhSpDQ2UWCfMk0UmszVmq4JqAvziRjYHjs3Rg64FxesiAJWkWjF8PhJi22dTFUY&usqp=CAU)]
+[![MasterHead](https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif)]
 <h1 align="center">Hi 👋, I'm Abdi Omar Ousleyeh(AOO)</h1>
 <h3 align="center">A passionate Software Engineer from Djibouti</h3>
 
