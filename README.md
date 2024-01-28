@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&usqp=CAU" alt="abdiooa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdi omar" target="blank"><img src="https://img.shields.io/twitter/follow/abdi omar?logo=twitter&style=for-the-badge" alt="abdi omar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@AbdiOmar417867" target="blank"><img src="https://img.shields.io/twitter/follow/abdi omar?logo=twitter&style=for-the-badge" alt="abdi omar" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps, Front-End, Flutter**
 
