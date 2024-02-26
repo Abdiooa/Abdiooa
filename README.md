@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@AbdiOmar417867" target="blank"><img src="https://img.shields.io/twitter/follow/abdi omar?logo=twitter&style=for-the-badge" alt="abdi omar" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Front-End, Flutter**
+- 🌱 I’m currently learning **Front-End, Flutter**
 
-- 💬 Ask me about **react, spring boot**
+- 💬 Ask me about **react, spring boot, kubernetes, security, devops**
 
 - 📫 How to reach me **martelluiz125@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdi omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdi omar" height="30" width="40" /></a>
+<a href="https://twitter.com/@AbdiOmar417867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdi omar" height="30" width="40" /></a>
 <a href="https://instagram.com/aoo.1720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aoo.1720" height="30" width="40" /></a>
 </p>
 
