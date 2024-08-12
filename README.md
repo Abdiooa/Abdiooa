@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@AbdiOmar417867" target="blank"><img src="https://img.shields.io/twitter/follow/abdi omar?logo=twitter&style=for-the-badge" alt="abdi omar" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End, Flutter**
+- 🌱 I’m currently learning **Tailwind css, React-Native, Flutter**
 
-- 💬 Ask me about **react, spring boot, kubernetes, security, devops**
+- 💬 Ask me about **react, Angular, spring boot, kubernetes, security, devops**
 
 - 📫 How to reach me **martelluiz125@gmail.com**
 
