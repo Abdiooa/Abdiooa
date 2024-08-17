@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwind css, React-Native, Flutter**
 
-- 💬 Ask me about **react, Angular, spring boot, kubernetes, security, devops**
+- 💬 Ask me about **react, Angular, spring boot, golang, kubernetes, security, devops**
 
 - 📫 How to reach me **martelluiz125@gmail.com**
 
