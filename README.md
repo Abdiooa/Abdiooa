@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdi Omar Ousleyeh(AOO)</h1>
-<h3 align="center">A passionate Software Engineer from Djibouti</h3>
+<h3 align="center">A passionate AI/ML Software | DevSecOps Engineer</h3>
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&usqp=CAU" alt="abdiooa" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwind css, Flutter**
 
-- 💬 Ask me about **React, React-Native, Angular, spring boot, golang, django, kubernetes, security, devops, Microservices**
+- 💬 Ask me about **React, React-Native, Angular, spring boot, golang, django,rust, kubernetes, security, devsecops, Microservices**
 
 - 📫 How to reach me **martelluiz125@gmail.com**
 
